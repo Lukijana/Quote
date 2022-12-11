@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+td, th {
+	text-align: center;
+	padding: 10px;
+  }
+
+  table, th, td {
+	border: 2px solid;
+	color: black;
+  }
+
+  table.center {
+    margin-left:35px; 
+    margin-right:35px;
+  }
+
+  th.color{
+	background-color: black;
+	color: white;
+  }
+
+  h1.color{
+	color: black;
+  }
+
+  
+
+button.button1{
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+
+.box {
+  background-color: black;
+  color: white;
+  margin-top: 200px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
